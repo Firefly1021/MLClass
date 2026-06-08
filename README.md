@@ -31,11 +31,3 @@ xelatex main.tex
 pip install -r requirements.txt
 python code/run_experiments.py
 ```
-
-运行后会更新 `figures/` 与 `data/` 中的图表和数据。
-
-## 提交前需要修改
-
-论文首页保留了“姓名、学号”的横线，请提交前填入自己的信息。
-
-本版本已将参考文献整理为独立的 `references.bib` 文件，并同步修改了 `main.tex` 中的参考文献调用方式。
