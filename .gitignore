@@ -1,0 +1,26 @@
+# --- LaTeX 编译产生的临时文件 (必填) ---
+*.aux
+*.log
+*.toc
+*.synctex.gz
+*.out
+*.fdb_latexmk
+*.fls
+*.nav
+*.snm
+*.vrb
+*.bbl
+*.blg
+*.xdv
+
+# --- 操作系统与编辑器垃圾 ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+# LaTeX 临时文件夹
+_minted-*/
+_minted/
+# 操作系统缓存
+__MACOSX/

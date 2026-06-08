@@ -1,0 +1,27 @@
+\contentsline {section}{\numberline {1}引言}{1}{section.1}%
+\contentsline {section}{\numberline {2}神经网络函数逼近与谱偏差}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}多层感知机作为参数化函数族}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Fourier 视角下的误差分解}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}线性化训练动力学解释}{3}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Fourier features 的基本思想}{4}{subsection.2.4}%
+\contentsline {section}{\numberline {3}PINN 的误差来源与数学结构}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}强形式残差与经验积分}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}强形式与弱形式的比较}{5}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Helmholtz 方程的振荡结构与频域符号}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}一维模型问题与非共振条件}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Helmholtz 算子的 Fourier 符号}{7}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}变分形式与非强制性}{8}{subsection.4.3}%
+\contentsline {section}{\numberline {5}谱偏差对 Helmholtz-PINN 的影响}{8}{section.5}%
+\contentsline {subsection}{\numberline {5.1}强形式残差中的敏感抵消}{8}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}采样分辨率与波长}{9}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}损失尺度随波数放大}{9}{subsection.5.3}%
+\contentsline {section}{\numberline {6}数值实验}{10}{section.6}%
+\contentsline {subsection}{\numberline {6.1}实验一:函数拟合中的谱偏差}{10}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}实验二:一维 Helmholtz 方程的 PINN 求解}{12}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}实验结果的数学解释}{14}{subsection.6.3}%
+\contentsline {section}{\numberline {7}改进方向讨论}{15}{section.7}%
+\contentsline {subsection}{\numberline {7.1}引入与波数相关的 Fourier 特征}{15}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}弱形式与变分型 PINN}{15}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}与传统 Helmholtz 求解器和神经算子的关系}{15}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}采样策略与损失尺度}{16}{subsection.7.4}%
+\contentsline {section}{\numberline {8}结论}{16}{section.8}%
